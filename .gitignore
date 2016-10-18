@@ -1,2 +1,4 @@
 passwords.txt
 cache/*
+bbdd/*
+!bbdd/.gitkeep
