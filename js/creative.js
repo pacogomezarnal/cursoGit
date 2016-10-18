@@ -57,7 +57,7 @@
             preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
         },
         image: {
-            tError: '<a href="%url%">The image #%curr%</a> could not asdfasdbe loaded.'
+            tError: '<a href="%url%">sdfasdfasd image #%curr%</a> could not asdfasdbe loaded.'
         }
     });
 
